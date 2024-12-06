@@ -1,0 +1,4 @@
+def check_protect(1,230.60):
+return '{:*>10}'.format(dollar_amount)
+amount = input('Enter a dollar amount: ')
+print(check_protect(amount))
